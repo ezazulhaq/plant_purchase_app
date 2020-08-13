@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>502565504739-eqdu5klv70cfvl7l5jg0fcd6km0h7nbs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.502565504739-eqdu5klv70cfvl7l5jg0fcd6km0h7nbs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyj8RHhcpY3j0oOF_GUMaiT1YNQibfc8U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>502565504739</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.haatechnicalsaga.plantPurchaseApp</string>
+	<key>PROJECT_ID</key>
+	<string>plant-purchase-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>plant-purchase-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:502565504739:ios:8a9025c76fd6b41e2527d6</string>
+	<key>DATABASE_URL</key>
+	<string>https://plant-purchase-app.firebaseio.com</string>
+</dict>
+</plist>
